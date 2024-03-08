@@ -1,0 +1,229 @@
+{
+    "users": [
+        {
+            "name": "Garry Terry",
+            "email": "email@email.com",
+            "password": "Test1234,",
+            "id": "1"
+        },
+        {
+            "name": "Sabrina Deckow",
+            "email": "Janae_Prosacco40@hotmail.com",
+            "password": "Test1234",
+            "id": "2"
+        }
+    ],
+    "category": [
+        {
+            "id": "1",
+            "name": "Classic animation",
+            "poster": "https://www.rollingstone.com/wp-content/uploads/2023/11/Walt-Disney-movies-ranked-illo.jpg?w=1581&h=1054&crop=1"
+        },
+        {
+            "id": "2",
+            "name": "Pixar",
+            "poster": "https://images.moviesanywhere.com/crux/45ea3c8887106abae7014271bf1a0bbe.jpeg"
+        },
+        {
+            "id": "3",
+            "name": "Live action",
+            "poster": "https://people.com/thmb/vBs4V3FlPrNAR3tyPfSD4LOCgDE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(794x179:796x181)/live-action-disney-films-051823-tout-31c6aad014ef474496fd7fb55832280f.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Disney Channel",
+            "poster": "https://hips.hearstapps.com/hmg-prod/images/lugs4rnm-1571085705.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Marvel",
+            "poster": "https://www.giantfreakinrobot.com/wp-content/uploads/2023/01/thunderbolts-feature.jpg"
+        }
+    ],
+    "movies": [
+        {
+            "id": "1",
+            "title": "Blancanieves y los Siete Enanitos",
+            "poster": "https://www.cuentosdeprincesas.com/wp-content/uploads/2020/01/blancanieves-y-los-siete-enanitos.jpg",
+            "ranking": "4.8",
+            "categoryId": "1",
+            "description": "The story of a beautiful princess who is poisoned by her wicked stepmother."
+        },
+        {
+            "id": "2",
+            "title": "La Bella y la Bestia",
+            "poster": "https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs2.abcstatics.com%2Fmedia%2Fpeliculas%2F000%2F003%2F813%2Fla-bella-y-la-bestia-2.jpg&nuevoancho=620&medio=abc",
+            "ranking": "4.9",
+            "categoryId": "1",
+            "description": "A young woman who falls in love with a monstrous beast who turns out to be an enchanted prince."
+        },
+        {
+            "id": "3",
+            "title": "El Rey León",
+            "poster": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/01/14/el-rey-leon.jpeg",
+            "ranking": "4.8",
+            "categoryId": "1",
+            "description": "A street urchin finds a magic lamp that grants him three wishes."
+        },
+        {
+            "id": "4",
+            "title": "Aladdin",
+            "poster": "https://media.vogue.es/photos/5cc739881a1e58370ab83f2a/master/w_1600%2Cc_limit/living__619659514.jpg",
+            "ranking": "4.6",
+            "categoryId": "1",
+            "description": "Un joven de la calle encuentra una lámpara mágica que le concede tres deseos."
+        },
+        {
+            "id": "5",
+            "title": "Toy Story",
+            "poster": "https://img2.rtve.es/v/674176?w=1600&preview=1264095822273.jpg",
+            "ranking": "4.9",
+            "categoryId": "2",
+            "description": "La historia de un grupo de juguetes que cobran vida cuando no hay humanos cerca."
+        },
+        {
+            "id": "6",
+            "title": "Búsqueda del Nemo",
+            "poster": "https://pyxis.nymag.com/v1/imgs/3ad/b13/85a7c32f1764fadc830991c6e3e5067603-29-finding-dory.2x.rhorizontal.w710.jpg",
+            "ranking": "4.8",
+            "categoryId": "2",
+            "description": "Un pez payaso sobreprotector emprende un viaje para encontrar a su hijo Nemo, que ha sido capturado por un buzo."
+        },
+        {
+            "id": "7",
+            "title": "Up",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3xKE_IqFP1qESeRQ6EHdoBZRZjsZraH3Cg&usqp=CAU",
+            "ranking": "4.7",
+            "categoryId": "2",
+            "description": "Un anciano vendedor de globos emprende un viaje por América del Sur con su casa atada a miles de globos."
+        },
+        {
+            "id": "8",
+            "title": "Camp Rock",
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/1/12/Jonas_Brothers_and_Demi_Lovato.jpg",
+            "ranking": "4.1",
+            "categoryId": "4",
+            "description": "Una chica tímida con talento para la música asiste a un campamento musical y se enamora de un popular cantante."
+        },
+        {
+            "id": "9",
+            "title": "High School Musical",
+            "poster": "https://estaticos-cdn.prensaiberica.es/clip/0849d1bc-bd3e-45f2-a15e-9f61c215c9ea_alta-aspect-ratio_default_0.jpg",
+            "ranking": "4.3",
+            "categoryId": "4",
+            "description": "Un tímido estudiante y una popular animadora descubren su pasión compartida por la música y deciden participar en el musical de la escuela."
+        },
+        {
+            "id": "10",
+            "title": "Phineas y Ferb",
+            "poster": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/01/phineas-ferb-tv-2928350.jpg?tf=3840x",
+            "ranking": "4.5",
+            "categoryId": "4",
+            "description": "Phineas y Ferb emprenden un viaje para salvar el Área Tri-Estatal del malvado Dr. Doofenshmirtz."
+        },
+        {
+            "id": "11",
+            "title": "La Cenicienta",
+            "poster": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/09/cenicienta-home-1628057388.jpg?fit=2376%2C1583&quality=50&strip=all&ssl=1",
+            "ranking": "4.7",
+            "categoryId": "3",
+            "description": "Una joven huérfana maltratada por su madrastra y hermanastras tiene la oportunidad de asistir a un baile real con la ayuda de su hada madrina."
+        },
+        {
+            "id": "12",
+            "title": "El Rey León",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjEyOTYyMzUzNi0YzU1Mi05MTU5LWVmNDJjNmI0MGE5ZTkyNWRiLWZlYzMwMmEwNWRjYzMyMTE5XkEyXkFqcGdeQXVyNTQ4NTQzOTI@._V1_.jpg",
+            "ranking": "4.8",
+            "categoryId": "3",
+            "description": "Un joven león destinado a ser rey es engañado por su malvado tío, quien usurpa el trono y obliga a Simba al exilio."
+        },
+        {
+            "id": "13",
+            "title": "La Bella y la Bestia",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMzAwNDM0MTcyMi0zZDM4LWUzZWMtMTMwMTE0NzUzNWRmXkEyXkFqcGdeQXVyNTMxOGQzMTg@._V1_.jpg",
+            "ranking": "4.2",
+            "categoryId": "3",
+            "description": "Una joven inteligente y valiente acepta vivir en un castillo con una bestia a cambio de la libertad de su padre."
+        },
+        {
+            "id": "14",
+            "title": "Iron Man",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTczMTc3MDgxN*_V1_SX300.jpg",
+            "ranking": "4.2",
+            "categoryId": "5",
+            "description": "Un multimillonario playboy industrial arma una armadura para luchar contra el mal después de ser secuestrado por terroristas."
+        },
+        {
+            "id": "15",
+            "title": "Capitán América: El soldado de invierno",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMzM0MTcwNzU4MGEwXy5BMzU3Njk4MDE5MFk4MTJlYWVkZWY5MGE2MGZiMmVmZGE2OGVmZGQ0_V1_SX300.jpg",
+            "ranking": "4.8",
+            "categoryId": "5",
+            "description": "El Capitán América se une a la Black Widow y Falcon para luchar contra un enemigo misterioso en la era moderna."
+        },
+        {
+            "id": "16",
+            "title": "Guardianes de la Galaxia",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNDkzMTcwMi0zYmVkNmFiZTQtZTc4Yy1mZGE3NzY2OTE5MTgwNzcyNWRjXkEyXkFqcGdeQXVyNTg3MDc0Nw@._V1_SX300.jpg",
+            "ranking": "4.4",
+            "description": "Un grupo de inadaptados espaciales forman un equipo para proteger un misterioso orbe codiciado por un poderoso villano."
+        }
+    ],
+    "details_movies": [
+        {
+            "id": 1,
+            "movieId": 1,
+            "title": "Blancanieves y los Siete Enanitos",
+            "sipnosis": "La historia de una bella princesa que es envenenada por su madrastra malvada.",
+            "actors": "Adriana Caselotti, Lucille La Verne, Harry Stockwell",
+            "youtubeId": "5fzZFQBXSLM",
+            "year": 1937,
+            "genre": "Animación, Fantasía, Musical",
+            "country": "Estados Unidos",
+            "duration": "83",
+            "ranking": "4.8",
+            "resume": "Blancanieves es una atractiva joven criada por una malvada Reina quien, envidiando su belleza, decide matarla tendiéndole una trampa en el bosque. Pero la joven consigue escapar y encuentra refugio en una casa habitada por siete simpáticos enanitos. Cuando la Reina se entera de que Blancanieves sigue viva decide completar el trabajo ella misma, transformándose en una vieja bruja que le ofrece una manzana envenenada. <br/> <br/> Blancanieves queda entonces sumida en un profundo sueño del que no despertará hasta recibir el beso de un Príncipe. Dos años de trabajo y un presupuesto desorbitado en plena Gran Depresión para un proyecto aventurado como era el primer largometraje de animación culminaron en Navidad de 1937 en un triunfo comercial y artístico arrollador para Walt Disney. <br/> <br/> Con esta adaptación del clásico infantil de los Hermanos Grimm se sentaron muchos precedentes, imitados posteriormente en el cine de animación, aunque la magia de <b>Blancanieves</b> sigue intacta. El sorprendente realismo de los personajes, el entrañables humor de los enanitos o las imborrables melodías que siguen cautivando a grandes y pequeños son solo algunos detalles de esta obra maestra de la animación."
+        },
+        {
+            "id": 2,
+            "movieId": 2,
+            "title": "La Bella y la Bestia",
+            "sipnosis": "Un apuesto y arrogante príncipe es víctima de una maldición por parte de una hechicera a quien niega hospitalidad: vivirá en el cuerpo de una horrible bestia hasta que sea capaz de despertar en una joven el amor verdadero.",
+            "actors": "Robby Benson, Paige O'Hara, Jerry Orbach",
+            "youtubeId": "5fzZFQBXSLM",
+            "year": 1992,
+            "genre": "Animación, Familia, Comedia musical, Romántico",
+            "country": "Estados Unidos",
+            "duration": "87",
+            "ranking": "4.9",
+            "resume": "Bella es una guapísima y solitaria joven que se ve obligada a recluirse en el castillo de Bestia, un monstruo que ha secuestrado y encarcelado a su padre después de que éste invadiera sus dominios buscando refugio en una noche de tormenta. En realidad, Bestia es un hombre bajo los efectos de una maldición ancestral que le mantiene encerrado en el cuerpo de un monstruo. Si quiere acabar con los efectos de dicha condena debe conquistar el corazón de una mujer antes de que caiga el último pétalo de una rosa mágica que guarda en una vitrina. <br/> <br/> Los primeros días de Bella en el castillo son exactamente como había imaginado. Se encuentra sola y atemorizada, pero gracias a los sirvientes de Bestia, objetos del hogar que se encuentran bajo los efectos de la misma maldición que su amo, halla una válvula de escape a la tristeza que la persigue desde el primer momento que pisó el palacio. ¿Será capaz Bestia de romper la maldición y conquistar el corazón de Bella? <br/> <br/> Magia, amor y canciones para el recuerdo se mezclan en esta historia dirigida por Gary Trousdale y Kirk Wise. Uno de los clásicos más reconocidos de la historia de Disney."
+        },
+        {
+            "id": 3,
+            "movieId": 3,
+            "title": "El Rey León",
+            "sipnosis": "Un joven león debe aprender a ser rey después de que su tío asesina a su padre.",
+            "actors": "Matthew Broderick, James Earl Jones, Jeremy Irons",
+            "youtubeId": "4x5G7i09vCs",
+            "year": 1994,
+            "genre": "Animación, Aventura, Drama, Musical",
+            "country": "Estados Unidos",
+            "ranking": "4.9",
+            "duration": "88",
+            "resume": "Recuperación del clásico de Disney de 1994, adaptado a las nuevas generaciones gracias a la tecnología 3-D. La productora de animación sigue así el camino que emprendió con 'La bella y la bestia' de adaptar sus cintas más populares a dicha tecnología para que los nuevos espectadores puedan disfrutarla mejor (y sacar de paso rendimiento, ahora que estamos en época de crisis, a las apuestas seguras de su fondo de armario). <br/> <br/> De esta forma, la épica y la espectacularidad de esta historia de aventuras y superación personal, de gran aliento shakesperiano, se verá realzada sin duda gracias a las nuevas texturas en imagen digital y sonido. De nuevo, el pequeño león Simba, tendrá que aprender el valor de la amistad, de las cosas buenas de la vida y también de la crueldad que encierra la naturaleza y la vileza de algunos seres. <br/> <br/> Tras la muerte de su padre, encontrará por el camino una serie de compañeros de viaje que le enseñarán el verdadero significado de todas estas cosas. La esencia de la película será la de siempre, aunque su presencia física en la pantalla ganará en grandeza."
+        },
+        {
+            "id": 4,
+            "movieId": 4,
+            "sipnosis": "Un joven de la calle encuentra una lámpara mágica que le concede tres deseos.",
+            "actors": "Scott Weinger, Robin Williams, Linda Larkin",
+            "youtubeId": "6JlB0_T8d4w",
+            "year": 1992,
+            "genre": "Animación, Aventura, Comedia, Fantasía, Musical",
+            "country": "Estados Unidos",
+            "ranking": "4.9",
+            "duration": "86",
+            "resume": "Aladdin es un joven que, junto a su inseparable mono Abú, se dedica al pillaje para poder sobrevivir. Un buen día, sin embargo, se enamora de la hija del Sultán, la princesa Jasmine, y acepta la proposición de un mendigo, quien le promete todo tipo de riquezas a cambio de que le consiga una vieja lámpara. Para ello, deberá adentrarse en una cueva habitada por un divertido genio que le concederá tres deseos, entre ellos, convertirse en príncipe. <br/> <br/> El tándem formado por dos habituales en el cine de Disney, Ron Clements y John Musker (que ya habían dirigido con éxito el clásico La Sirenita y que volvieron a formar equipo en Hércules), es el responsable de esta película familiar que adapta el cuento de Aladino y la lámpara maravillosa, incluido en el libro Las mil y una noches. <br/> <br/> La cinta arrasó comercialmente: fue la más taquillera de 1992 y la primera película de animación que recaudó más de 200 millones de dólares, dando pie a dos secuelas, una serie y una cantidad ingente de juguetes y productos derivados. También triunfó entre la crítica, convirtiéndose en clásico instantáneo y alzándose con los Oscars a la mejor canción y a la mejor música original."
+        }
+    ]
+}
